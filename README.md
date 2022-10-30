@@ -1,2 +1,5 @@
-# SWE_Project2
-In this project 2 we are asked to develop the product vision, and then the initial prototype. Rapid prototype is the first thing to do in Agile software engineering methods, or product software engineering. So far our idea, is to create a app/website to teach kids and teens between the ages of 8-16 how to program. 
+# SWE_Project2- Product Vison Statement
+For young middle and high school students, who wants to get a first glimpse of gaming development,  
+comes a fresh new coding masterpiece called ANARCODE that provides students with the opportunity to use 
+programming languages to create their own gaming challenges, referencing from Super Mario Brothers 
+to Fortnite. Our product is free to all users, unlike other services or software products. 
